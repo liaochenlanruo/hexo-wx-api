@@ -1,5 +1,5 @@
 <!--
- * @Description: 分类列表页信息
+ * @Description: 标签列表页信息
  * @Author: Harry
  * @Date: 2021-09-04 22:36:55
  * @Url: https://u.mr90.top
@@ -11,12 +11,12 @@
 <view class="categories_w">
   <view class="cate_hd_w">
     <view class="tag_w_">
-    <view class="tag_w">类别</view>
+    <view class="tag_w">标签</view>
     <view class="tag_n">{{dataList.length+"篇"}}</view>
     </view>
     <view class="text_w">
       <view class="t1">{{title}}</view>
-      <view class="t2">海纳百川，厚积薄发</view>
+      <view class="t2">一个萝卜一个坑</view>
     </view>
     <view class="img_w_open">
       <open-data class="" type="userAvatarUrl"></open-data>

@@ -6,12 +6,14 @@
     "pages/list/list",
     "pages/category/category",
     "pages/about/about",
-    "pages/discuss/discuss"
+    "pages/discuss/discuss",
+    "pages/tag/tag",
+    "pages/list_tags/list"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "今日在学",
+    "navigationBarTitleText": "了尘兰若的小坑",
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
@@ -36,7 +38,7 @@
         "pagePath": "pages/discuss/discuss",
         "iconPath": "static/icon/tabar/catelog.png",
         "selectedIconPath": "static/icon/tabar/catelog_h.png",
-        "text": "排行"
+        "text": "发现"
       },
       {
         "pagePath": "pages/main/main",

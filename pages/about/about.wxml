@@ -1,2 +1,36 @@
 <!--pages/about/about.wxml-->
-<text>pages/about/about.wxml</text>
+<view class="info">关于我</view>
+<view class="info">刘华林，现于中山大学做博士后，主要从事基于微生物组学的海洋生态进化与适应机制研究。</view>
+<view class="item .title2">发表文章：</view>
+
+<view class="item .title">*：代表共同第一 / 通讯作者</view>
+
+<view class="info">郑金水，薄得鑫，刘华林。公益性微生物基因组学培训班在高校中的实践与探讨 [J]. 科教文汇 (中旬刊), 2021 (11):82-84. DOI: 10.16871/j.cnki.kjwhb.2021.11.027.</view>
+
+<view class="info">Liu, H*., Prajapati, V*., Prajapati, S., Bais, H., Lu, J. (2021) Comparative genome analysis of Bacillus amyloliquefaciens focusing on phylogenomics, functional traits, and prevalence of antimicrobial and virulence genes. Front. Genet. 12(1750):724217. doi: 10.3389/fgene.2021.724217</view>
+
+<view class="info">Liu, H., Zheng, J., Bo, D., Yu, Y., Ye, W., Peng, D., Sun, M. (2022) BtToxin_Digger: a comprehensive and high-throughput pipeline for mining toxin protein genes from Bacillus thuringiensis. Bioinformatics, 2022 38(1): 250-251, doi: 10.1093/bioinformatics/btab506.</view>
+
+<view class="info">Wang, JJ;Xu, HT;Liu, S;Song, BL;Liu, HL;Li, F;Deng, SL;Wang, GL;Zeng, HW;Zeng, X;Xu, DY;Zhang, BA;Xin, BY (2021) Toyoncin, a Novel Leaderless Bacteriocin That Is Produced by Bacillus toyonensis XIN-YC13 and Specifically Targets B. cereus and Listeria monocytogenes. Appl Environ Microbiol, 87(12): e00185-21.</view>
+
+<view class="info">Xin, B., Xu, H., Liu, H., Liu, S., Wang, J., Xue, J., et al. (2020) Identification and characterization of a novel circular bacteriocin, bacicyclicin XIN-1, from Bacillus sp. Xin1. Food Control. 2020:107696.</view>
+
+<view class="info">Xin, B., Liu, H*., Zheng, J., Zheng, J., Xie, C., Gao, Y., Dai, D., Peng, D., Ruan, L., Chen, H., Sun, M. (2020) In silico analysis highlights the diversity and novelty of circular bacteriocins in sequenced microbial genomes. mSystems. 5(3)</view>
+
+<view class="info">Sajid, M., Geng, C., Li, M., Wang, Y., Liu, H., Zheng, J., Peng, D., & Sun, M (2018). Whole genomic analysis of Bacillus thuringiensis revealing partial genes as a source of novel Cry toxins. Appl Environ Microbiol, 2018, 84(14).</view>
+
+<view class="info">Zheng, J., Gao, Q., Liu, L., Liu, H., Wang, Y., & Peng, D., et al. (2017). Comparative genomics of Bacillus thuringiensis reveals a path to specialized exploitation of multiple invertebrate hosts. Mbio, 8(4), e00822-17.</view>
+
+<view class="info">Xin, B., Zheng, J., Liu, H., Li, J., Ruan, L., Peng, D., Sajid, M. and Sun, M. (2016) Thusin, a Novel Two-Component Lantibiotic with Potent Antimicrobial Activity against Several Gram-Positive Pathogens. Front. Microbiol. 7:1115. doi: 10.3389/fmicb.2016.01115</view>
+
+<view class="info">Zheng, Z., Zheng, J., Liu, H., Peng, D., & Sun, M. (2016). Complete genome sequence of Fictibacillus phosphorivorans G25-29, a strain toxic to nematodes. Journal of Biotechnology, 239, 20-22.</view>
+
+<view class="info">Liu, G., Kong, Y., Liu, H., Peng, D., Ruan, L., & Wu, Y., et al. (2016). Incidental mutations occur frequently during transposon mutagenesis. Fems Microbiology Letters, 364(3).</view>
+
+<view class="info">Wang, Y., Fu, J., Zhu, Q., Zhu, L., Zheng, J., & Liu, H., et al. (2016). Complete genome sequence of Bacillus thuringiensis serovar alesti BGSC 4C1, a typical strain with toxicity to Lepidoptera insects. Journal of Biotechnology, 239, 61-64.</view>
+
+<view class="info">Zheng, J., Peng, D., Chen, L., Liu, H., Chen, F., & Xu, M., et al. (2016). The Ditylenchus destructor genome provides new insights into the evolution of plant parasitic nematodes. Proceedings Biological Sciences,283(1835), 20160942.</view>
+
+<view class="item .title">预印本：</view>
+
+<view class="info">Hualin Liu*, Bingyue Xin*, Jinshui Zheng et al. Build a Bioinformatic Analysis Platform and Apply it to Routine Analysis of Microbial Genomics and Comparative Genomics, 18 January 2021, PREPRINT (Version 5) available at Research Square https://doi.org/10.21203/rs.2.21224/v5</view>

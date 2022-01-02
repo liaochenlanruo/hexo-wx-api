@@ -35,7 +35,7 @@
 	
 	<!-- 标题 -->
 	<view class="index-h">
-		<font><label class="index-h-blue _span">工</label>具导航</font>
+		<font><label class="index-h-blue _span">工具导航</label></font>
 		<font class="index-h-all">滑动查看</font>
 	</view>
 
@@ -79,7 +79,7 @@
 
 	<!-- 标题 -->
 	<view class="index-h">
-		<font v><label class="index-h-blue _span">最</label>新文章</font>
+		<font><label class="index-h-blue _span">最新文章</label></font>
 		<font class="index-h-all">All</font>
 	</view>
 

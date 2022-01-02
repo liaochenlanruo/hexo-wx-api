@@ -32,5 +32,13 @@ module.exports = {
   },
   getJsonSearch(){
     return Domain + '/api/search.json'
+  },
+   // 获取Tags数据
+   getTags(){
+    return Domain + '/api/tags.json'
+  },
+  // 获取指定的tag列表信息
+  getCateDetailtag(TagName){
+    return Domain + `/api/tags/${TagName}.json`
   }
 }
