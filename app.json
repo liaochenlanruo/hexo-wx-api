@@ -8,7 +8,8 @@
     "pages/about/about",
     "pages/discuss/discuss",
     "pages/tag/tag",
-    "pages/list_tags/list"
+    "pages/list_tags/list",
+    "pages/gallery/gallery"
   ],
   "window": {
     "backgroundTextStyle": "light",

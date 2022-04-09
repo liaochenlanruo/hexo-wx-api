@@ -40,5 +40,13 @@ module.exports = {
   // 获取指定的tag列表信息
   getCateDetailtag(TagName){
     return Domain + `/api/tags/${TagName}.json`
-  }
+  }//,
+  // 获取about介绍
+ // getabout() {
+   // return Domain + '/api/pages/about.json'
+  //},
+  // 获取me介绍
+  //getme() {
+  //  return Domain + '/api/pages/me.json'
+ // }
 }

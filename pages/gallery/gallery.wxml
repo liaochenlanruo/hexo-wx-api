@@ -1,2 +1,2 @@
-<!--pages/about/about.wxml-->
+<!--pages/gallery/gallery.wxml-->
 <rich-text class="item" nodes="{{list.content}}"></rich-text>

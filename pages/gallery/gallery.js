@@ -1,4 +1,4 @@
-// pages/about/about.js
+// pages/gallery/gallery.js
 Page({
 
   /**
@@ -14,7 +14,7 @@ Page({
   onLoad: function (options) {
     var that = this
     wx.request({
-      url: 'https://www.liaochenlanruo.fun/api/pages/me.json',
+      url: 'https://www.liaochenlanruo.fun/api/pages/bizhi.json',
       headers: {
         'Content-Type': 'application/json'
       },
